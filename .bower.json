@@ -1,0 +1,16 @@
+{
+    "name": "fez-ui",
+    "keywords": ["fez", "fez-ui"],
+    "main": [
+        "dist/fezui.js",
+        "dist/styles/fezui.css",
+        "dist/styles/fonts/**.**"
+    ],
+    "ignore": [
+        "*/.*",
+        "*.json",
+        "src",
+        "*.md"
+    ],
+    "version": "0.1.1",
+}
