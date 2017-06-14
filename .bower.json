@@ -3,7 +3,7 @@
     "keywords": ["fez", "fez-ui"],
     "main": [
         "dist/fezui.js",
-        "dist/styles/fezui.css",
+        "dist/styles/css/fezui.css",
         "dist/styles/fonts/**.**"
     ],
     "ignore": [
